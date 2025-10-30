@@ -21,8 +21,8 @@ def keep_alive():
 
 class AyeshaBot:
     def __init__(self):
-        self.token = os.getenv('TELEGRAM_TOKEN')
-        self.hf_token = os.getenv('HUGGING_FACE_TOKEN')
+        self.token = os.getenv('8076979367:AAFTkWjlR--jZAGy8Xif0zswVbh15ijBikA')
+        self.hf_token = os.getenv('')
         self.setup_database()
         
     def setup_database(self):
