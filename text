@@ -1,0 +1,9 @@
+ayesha-ai-girlfriend/
+├── requirements.txt
+├── runtime.txt
+├── Procfile
+├── .env.example
+├── README.md
+├── bot.py
+├── memory.db
+└── .gitignore
